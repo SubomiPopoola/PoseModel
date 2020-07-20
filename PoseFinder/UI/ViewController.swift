@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     var counter = 0
     var previous = [Float]()
     var current = [Float]()
-    var oken: String = ""
+    var oken: String = "r"
     
     private let videoCapture = VideoCapture()
 
